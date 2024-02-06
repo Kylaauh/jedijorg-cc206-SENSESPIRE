@@ -11,7 +11,7 @@ Flutter Grocery App UI
 ## Screenshots  
 
 <p float="left">
-  <img src="\Users\User\OneDrive\Desktop\cc_206_vcs_jurquina_quirante_trompeta.jpg" width="200" />
+ 
   <img src="screenshots/2.jpg" width="200" /> 
   <img src="screenshots/3.jpg" width="200" />
   <img src="screenshots/4.jpg" width="200" />
@@ -23,7 +23,7 @@ Flutter Grocery App UI
   <img src="screenshots/10.jpg" width="200" />
   <img src="screenshots/11.jpg" width="200" />
   <img src="screenshots/12.jpg" width="200" />
-  <img src="profile.jpg" width="200" />
+
 </p>
 
 -------------  
